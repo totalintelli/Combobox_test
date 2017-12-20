@@ -1,0 +1,9 @@
+E:\Projects\Combobox_test\Combobox_test\bin\Debug\Combobox_test.exe.config
+E:\Projects\Combobox_test\Combobox_test\obj\Debug\Combobox_test.csprojResolveAssemblyReference.cache
+E:\Projects\Combobox_test\Combobox_test\obj\Debug\comboBox_test.Form1.resources
+E:\Projects\Combobox_test\Combobox_test\obj\Debug\Combobox_test.Properties.Resources.resources
+E:\Projects\Combobox_test\Combobox_test\obj\Debug\Combobox_test.csproj.GenerateResource.Cache
+E:\Projects\Combobox_test\Combobox_test\bin\Debug\Combobox_test.exe
+E:\Projects\Combobox_test\Combobox_test\bin\Debug\Combobox_test.pdb
+E:\Projects\Combobox_test\Combobox_test\obj\Debug\Combobox_test.exe
+E:\Projects\Combobox_test\Combobox_test\obj\Debug\Combobox_test.pdb
